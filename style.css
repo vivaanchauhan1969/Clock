@@ -10,7 +10,6 @@
   
   * {
     box-sizing: border-box;
-    /*transition: all ease 0.2s; */
   }
   
   body {
@@ -106,10 +105,8 @@
     border-radius: 2px;
   }
   
-  /* Style for theme switch btn */
   .switch-cont {
     margin: 2em auto;
-    /* position: absolute; */
     bottom: 0;
   }
   .switch-cont .switch-btn {
